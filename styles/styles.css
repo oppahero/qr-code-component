@@ -45,6 +45,7 @@ p {
   width: 290px;
   height: 290px;
   margin-bottom: 25px;
+  border-radius: 10px;
   background: center / contain no-repeat url("../assets/image-qr-code.png");
 }
 
