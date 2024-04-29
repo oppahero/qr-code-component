@@ -1,6 +1,6 @@
-# Frontend Mentor - QR code component solution
+# QR code component
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
+This is my solution to the QR code component challenge on Frontend Mentor
 
 ## Table of contents
 
@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Repository](https://github.com/oppahero/qr-code-component)
+- Solution URL: [Qr-code component using Flexbox](https://www.frontendmentor.io/solutions/qrcode-component-using-flexbox-XUxUfPWVb8)
 - Live Site URL: [Github Page](https://oppahero.github.io/qr-code-component/)
 
 ## My process
